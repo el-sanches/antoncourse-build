@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+
+</defs>
+<symbol id="i-arrow" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24.344 9.903a.97.97 0 00-1.358 0l-8.923 8.809-8.924-8.81a.969.969 0 00-1.358 0 .94.94 0 000 1.341l9.603 9.48a.966.966 0 001.358 0l9.602-9.48a.94.94 0 000-1.34z" fill="#FF543E"/></symbol>
+<symbol id="i-video-play" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="56" cy="56" r="55" stroke="#FF543E" stroke-width="2"/><path d="M74 51.652c2 1.155 2 4.041 0 5.196l-24.75 14.29c-2 1.154-4.5-.29-4.5-2.599V39.961c0-2.31 2.5-3.753 4.5-2.599L74 51.652z" fill="currentColor" stroke="#FF543E" stroke-width="2"/></symbol>
+</svg>
